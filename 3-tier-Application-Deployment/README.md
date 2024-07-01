@@ -1,1 +1,1 @@
-checkout the blog written on this project --> https://medium.com/@aakibkhan1/project-8-three-tier-application-deployment-on-kubernetes-bf9323de40e0
+checkout the blog written on this project -->  https://github.com/akash5298/3-tier-Application-Deployment/edit/main/3-tier-Application-Deployment
